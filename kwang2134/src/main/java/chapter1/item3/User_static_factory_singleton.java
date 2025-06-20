@@ -1,4 +1,4 @@
-package item3;
+package chapter1.item3;
 
 public class User_static_factory_singleton {
     /**

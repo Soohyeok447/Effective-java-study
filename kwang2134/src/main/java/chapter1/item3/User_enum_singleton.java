@@ -1,4 +1,4 @@
-package item3;
+package chapter1.item3;
 
 public enum User_enum_singleton {
     /**

@@ -1,4 +1,4 @@
-package item1;
+package chapter1.item1;
 
 public class User {
     private String name;
