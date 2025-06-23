@@ -1,6 +1,4 @@
-package item3;
-
-import item1.User;
+package chapter1.item3;
 
 public class User_private_static_final_singleton {
     /**
