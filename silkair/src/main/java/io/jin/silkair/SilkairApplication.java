@@ -1,8 +1,6 @@
 package io.jin.silkair;
 
-import io.jin.silkair.item01.PhoneNumber;
-import io.jin.silkair.item02.NutritionFacts;
-import io.jin.silkair.item02.NutritionFactsBuilder;
+import io.jin.silkair.part02.item02.NutritionFactsBuilder;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

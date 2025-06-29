@@ -1,4 +1,4 @@
-package io.jin.silkair.item02;
+package io.jin.silkair.part02.item02;
 
 public class NutritionFactsBuilder {
     private final int servingSize;    // (ml)         필수
