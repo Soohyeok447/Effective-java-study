@@ -1,4 +1,4 @@
-package io.jin.silkair.item01;
+package io.jin.silkair.part02.item01;
 
 public class PhoneNumber {
     private final String areaCode;
